@@ -1,1 +1,1 @@
-Hello world it is a great day to be learning git.
+Hello world it is a great day to be learning git, implementing new branch changes.
